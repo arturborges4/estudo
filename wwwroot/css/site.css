@@ -1,0 +1,34 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    bgcolor="yellow";
+}
+
+
+
+
+.minha_classe{
+    font-weight:bolder;/*NEGRITO*/
+    color: red; /*COR DO TEXTO*/
+    font-size:125px;/*TAMANHO DA FONTE*/
+
+}
+.Soma{
+
+
+
+}
